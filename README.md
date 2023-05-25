@@ -1,5 +1,12 @@
 # Evolution of Womens Employment
 
+## Datasets
+Original Site: https://www.kaggle.com/datasets/fedesoriano/gender-pay-gap-dataset
+Cleaned csv: https://drive.google.com/drive/folders/1YkBdAasehjejPahCTyajRJ4k882hf9fY?usp=sharing
+
+## Final Site
+
+
 ## Problem Statement:
 The project aims to analyze and predict factors that influence women's employment rates. By leveraging machine learning techniques and the technologies mentioned, the project will provide insights into the key determinants of women's employment and create a predictive model to estimate employment rates based on various factors.
 
